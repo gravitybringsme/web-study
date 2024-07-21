@@ -1,0 +1,16 @@
+* {
+    font-family: "Sunflower", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+p{
+    font-family: "Nanum Pen Script", cursive;
+}
+
+p>span{
+    color:red;
+    font-family: "Sunflower", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
